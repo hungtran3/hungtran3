@@ -1,8 +1,1 @@
-{
-  "jsonrpc": "2.0",
-  "method": "timeline.getDetail",
-  "params": {
-    "timelineId": 1
-  },
-  "id": "1"
-}
+{"jsonrpc":"2.0","result":{"success":1,"username":"3199999","timeline":{"timelineId":1,"title":"タイトル","titleColor":"#000000","titlePosition":"11","body":"本文","photoPath":"xxxxx","postDate":"2020-01-02 00:00:00","postOrder":1,"isAutoPost":false,"isGoal":false,"isAchievement":false,"achievementDate":"2020-01-01","photos":[{"photoPath":"xxxxxxx","position":1}],"tags":[{"tagId":1}]}},"id":"1"}
